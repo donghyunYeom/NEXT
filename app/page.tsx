@@ -23,6 +23,8 @@ export default function Home() {
           <li className="mb-2">Save and see your changes instantly.</li>
           <li className="mb-2">Just CI/CD With github</li>
           <li className="mb-2">Just Deploy By Vercel</li>
+
+          <li className="mb-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla libero, cupiditate sint culpa commodi assumenda tenetur nemo mollitia amet alias? Eos alias vitae dolor temporibus assumenda ea corporis porro sequi.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
